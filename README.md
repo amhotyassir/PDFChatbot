@@ -3,5 +3,5 @@
 
 <h1>Tutorial (B'Darija): <h1>
 
-<a ><img width="889" alt="image" src=https://github.com/user-attachments/assets/e3d2bd25-7821-4d6b-abcc-099ebe9f031c)" /> </a>
+<a ><img width="889" alt="image" src="https://github.com/user-attachments/assets/e3d2bd25-7821-4d6b-abcc-099ebe9f031c" /> </a>
 
